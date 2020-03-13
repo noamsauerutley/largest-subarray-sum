@@ -4,6 +4,9 @@
 <p>
 Solution code and test suite for <a href="https://levelup.gitconnected.com/finding-the-largest-subarray-sum-in-javascript-a243093c8840">Finding the Largest Subarray Sum in Javascript</a>, a JavaScript language solution for the Largest Subarray Sum algorithm challenge, using Kadane's Algorithm.
   <br><br/>
+  Published by <a href="https://levelup.gitconnected.com/">∞ Level Up Coding</a><br>
+  <br><br/>
+
   Run tests with the terminal command: 'npm test'
  
 <hr>
